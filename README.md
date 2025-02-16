@@ -1,5 +1,5 @@
 # ejercicios-en-clases-
-
+```csharp
 int num1, num2;
 int opcion = 4;
 Console.WriteLine("Ingrese el primer numero: ");
@@ -27,7 +27,8 @@ switch (opcion)
         Console.WriteLine($"la multiplicacion es :{num1 * num2}");
         break;
     case 4:
-        Console.WriteLine($"La suma es: {num1 / num2}");
+        Console.WriteLine($"La divicion es: {num1 / num2}");
         break;
 
 }    
+```
